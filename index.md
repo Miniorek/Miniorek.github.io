@@ -1,10 +1,10 @@
 # Welcome to the **CRINGE DUELYARD**
-<a id="CRINGE DUELYARD DISCORD">https://discord.gg/PfDfKgCzuH</>
+<a id="CRINGE DUELYARD DISCORD">https://discord.gg/PfDfKgCzuH</> [RAW LINK IF HYPERLINK DOESN'T WORK: https://discord.gg/PfDfKgCzuH]
 ## **THE RULES:**
-1. <span style="color:red">No toxicity.</span>
-2. <span style="color:red">This is a DUEL SERVER. NO FFA in normal play area!</span>
-3. FFA is <span style="color:blue">allowed</span> ONLY in <span style="color:red">tp ffa</span>, during specific events or against your friends.
-4. Smoke bombs, fire bombs and toolbox buildings in normal play area are <span style="color:blue">FORBIDDEN</span>. Disrupting duels using those items is FFA.
+1. No toxicity.
+2. This is a **DUEL** SERVER. **NO FFA** in normal play area!
+3. **FFA** is allowed **ONLY** in <span style="color:red">tp ffa</span>, during specific events or against your friends.
+4. Smoke bombs, fire bombs and toolbox buildings in normal play area are **FORBIDDEN**. Disrupting duels using those items is **FFA**.
 5. Items spawned and provided by Admins should be used in specific areas and with specified purpose.
-6. Please follow the orders of Staff members. If you don't agree, you can come to the Discord to talk about it.
-7. Have fun!
+6. Please follow the orders of Staff members. If you don't agree, you can come to the **Discord** (join button above) to talk about it.
+7. Hope you enjoy the server!
